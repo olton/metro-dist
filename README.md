@@ -5,8 +5,9 @@ The front-end framework for developing projects on the web in Windows Metro Styl
 
 ### 3.0.13
 
-### Install with bower
+### Install with 
 bower install metro-dist
+npm install metro-dist
 
 ### Public CDN
 
