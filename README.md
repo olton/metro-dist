@@ -3,7 +3,7 @@ The front-end framework for developing projects on the web in Windows Metro Styl
 
 ## Current Version
 
-### 3.0.14
+### 3.0.15
 
 github repo: https://github.com/olton/Metro-UI-CSS
 
