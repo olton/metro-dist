@@ -3,7 +3,7 @@ The front-end framework for developing projects on the web in Windows Metro Styl
 
 ## Current Version
 
-### 3.0.15
+### 3.0.16
 
 github repo: https://github.com/olton/Metro-UI-CSS
 
@@ -12,24 +12,23 @@ github repo: https://github.com/olton/Metro-UI-CSS
 bower install metro-dist
 npm install metro-dist
 
-### Public CDN
+### Key CDN
 
-##### CSS
- 
-https://cdn.rawgit.com/olton/metro-dist/master/css/metro.min.css<br />
-https://cdn.rawgit.com/olton/metro-dist/master/css/metro-responsive.min.css<br /> 
-https://cdn.rawgit.com/olton/metro-dist/master/css/metro-schemes.min.css<br />
-https://cdn.rawgit.com/olton/metro-dist/master/css/metro-rtl.min.css<br />
-https://cdn.rawgit.com/olton/metro-dist/master/css/metro-icons.min.css<br />
+####CSS
+-  http://cdn.metroui.org.ua/css/metro.min.css
+-  http://cdn.metroui.org.ua/css/metro-colors.min.css 
+-  http://cdn.metroui.org.ua/css/metro-schemes.min.css 
+-  http://cdn.metroui.org.ua/css/metro-icons.min.css 
+-  http://cdn.metroui.org.ua/css/metro-responsive.min.css 
+-  http://cdn.metroui.org.ua/css/metro-rtl.min.css 
+-  http://cdn.metroui.org.ua/css/metro-font-cdn.css - this required for use icons from cdn
 
-##### JS
-
-https://cdn.rawgit.com/olton/metro-dist/master/js/metro.min.js
+####JS
+- http://cdn.metroui.org.ua/js/metro.min.js
 
 ### Community
 
  Documentation and Demo: [metroui.org.ua](http://metroui.org.ua/).   
- Community Forum: [forum.metroui.org.ua](http://forum.metroui.org.ua).  
 
 ### Credits
 - Metro UI CSS is a Microsoft BizSpark Startup.

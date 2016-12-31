@@ -19,10 +19,7 @@
     "url": "https://github.com/olton/Metro-UI-CSS.git"
   },
   "bugs": {
-    "url": "http://forum.metroui.org.ua"
+    "url": "https://github.com/olton/Metro-UI-CSS.git"
   },
-  "license": {
-    "type": "MIT",
-    "url": "http://metroui.org.ua/license.html"
-  }
+  "license": "MIT"
 }
